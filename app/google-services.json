@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "639371111202",
+    "firebase_url": "https://sesionroom-288ec.firebaseio.com",
+    "project_id": "sesionroom-288ec",
+    "storage_bucket": "sesionroom-288ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639371111202:android:501c064aefc7efe66b537b",
+        "android_client_info": {
+          "package_name": "com.edwinacubillos.sesionroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639371111202-04qimvotug97js0apgk6mb0vidr85600.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC25qofed3wFze4kRtqMaTnp6SwI24n7i0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639371111202-04qimvotug97js0apgk6mb0vidr85600.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
