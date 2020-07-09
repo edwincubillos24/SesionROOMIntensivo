@@ -1,4 +1,4 @@
-package com.edwinacubillos.sesionroom.model
+package com.edwinacubillos.sesionroom.model.local
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

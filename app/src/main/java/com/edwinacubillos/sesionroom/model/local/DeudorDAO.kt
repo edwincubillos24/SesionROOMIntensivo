@@ -1,6 +1,7 @@
-package com.edwinacubillos.sesionroom.model
+package com.edwinacubillos.sesionroom.model.local
 
 import androidx.room.*
+import com.edwinacubillos.sesionroom.model.local.Deudor
 
 @Dao
 interface DeudorDAO {

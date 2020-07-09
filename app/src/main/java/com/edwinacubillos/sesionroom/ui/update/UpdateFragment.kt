@@ -7,8 +7,8 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.edwinacubillos.sesionroom.R
 import com.edwinacubillos.sesionroom.SesionROOM
-import com.edwinacubillos.sesionroom.model.Deudor
-import com.edwinacubillos.sesionroom.model.DeudorDAO
+import com.edwinacubillos.sesionroom.model.local.Deudor
+import com.edwinacubillos.sesionroom.model.local.DeudorDAO
 import kotlinx.android.synthetic.main.fragment_update.*
 
 class UpdateFragment : Fragment() {
